@@ -1,0 +1,40 @@
+h1 {
+  text-align: left;
+  color: navy;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  float: right;
+  padding-bottom: 0vh;
+}
+
+ul li {
+  padding: 1vh;
+  color: navy;
+  font-weight: bold;
+  
+}
+
+body {
+  background-image: url("../img2/firstview.jpeg");
+  background-repeat: no-repeat;
+  background-position: right;
+
+}
+.navy-box {
+  background: navy;
+  width: 150vh;
+  height: 35vh;
+  margin-top: 1vh;
+}
+
+h2 {
+  
+  text-align: bottom;
+  margin-bottom: 35vh;
+  font-size: 85px;
+  font-weight: lighter;
+  
+}
